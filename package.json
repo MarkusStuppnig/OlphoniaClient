@@ -1,5 +1,6 @@
 {
   "name": "olphonia",
+  "name_view": "Olphonia",
   "version": "1.0.0",
   "description": "",
   "main": "script/index.js",
