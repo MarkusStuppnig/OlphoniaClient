@@ -3,7 +3,7 @@
   "name_view": "Olphonia",
   "version": "1.0.0",
   "description": "",
-  "main": "script/main.js",
+  "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
